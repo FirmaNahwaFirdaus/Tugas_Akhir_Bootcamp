@@ -1,3 +1,36 @@
+# Version Control System
+    Version Control System (Sistem Kontrol Versi) adalah alat yang digunakan untuk mencatat dan mengelola perubahan pada file atau kode program secara berkelanjutan.
+  Manfaat Utama:
+  - Melacak semua perubahan yang dilakukan
+  - Memungkinkan kerja tim secara bersamaan
+  - Mendukung fitur cabang (branch) dan penggabungan (merge)Mencegah kehilangan data atau konflik kode
+
+  Jenis VCS:
+  a. Centralized VCS (CVCS): Semua file disimpan di server pusat (contoh: Subversion)
+  b. Distributed VCS (DVCS): Setiap pengguna punya salinan penuh (contoh: Git)
+  Contohnya Git adalah sistem kontrol versi paling banyak digunakan saat ini.
+
+# Perbedaan Scrum dan Kanban
+  a. Pendekatan Kerja:
+     Scrum: Bekerja dalam siklus waktu tetap (sprint), biasanya 1–4 minggu
+     Kanban: Alur kerja berjalan terus-menerus (continuous flow)
+  b. Perencanaan:
+     Scrum: Ada perencanaan sprint di awal
+     Kanban: Lebih fleksibel, tugas bisa ditambahkan kapan saja
+  c. Papan Kerja (Board):
+     Scrum: Papan sprint, berisi tugas-tugas untuk satu periode sprint
+     Kanban: Papan tugas terus menerus, biasanya dengan batas WIP (Work in Progress)
+  d. Peran Khusus:
+     Scrum: Ada Scrum Master, Product Owner, dan Tim
+     Kanban: Tidak wajib ada peran khusus
+  e. Perubahan Tugas:
+     Scrum: Tugas tidak boleh diubah selama sprint berjalan
+     Kanban: Tugas bisa diubah atau ditambahkan kapan saja
+  f. Cocok Untuk:
+     Scrum: Proyek dengan jadwal dan target yang jelas
+     Kanban: Proyek support, perbaikan bug, atau pekerjaan yang sifatnya rutin
+
+# PROJECT 1
 Fitur Utama:
 - Register user baru
 - Login dan dapatkan token
