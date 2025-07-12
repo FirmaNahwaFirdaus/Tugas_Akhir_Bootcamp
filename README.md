@@ -8,25 +8,25 @@
   Jenis VCS:
   - Centralized VCS (CVCS): Semua file disimpan di server pusat (contoh: Subversion)
   - Distributed VCS (DVCS): Setiap pengguna punya salinan penuh (contoh: Git)
-  Contohnya Git adalah sistem kontrol versi paling banyak digunakan saat ini.
+Contohnya Git adalah sistem kontrol versi paling banyak digunakan saat ini.
 
 # Perbedaan Scrum dan Kanban
-  a. Pendekatan Kerja:
+  - Pendekatan Kerja:
      Scrum: Bekerja dalam siklus waktu tetap (sprint), biasanya 1–4 minggu
      Kanban: Alur kerja berjalan terus-menerus (continuous flow)
-  b. Perencanaan:
+  - Perencanaan:
      Scrum: Ada perencanaan sprint di awal
      Kanban: Lebih fleksibel, tugas bisa ditambahkan kapan saja
-  c. Papan Kerja (Board):
+  - Papan Kerja (Board):
      Scrum: Papan sprint, berisi tugas-tugas untuk satu periode sprint
      Kanban: Papan tugas terus menerus, biasanya dengan batas WIP (Work in Progress)
-  d. Peran Khusus:
+  - Peran Khusus:
      Scrum: Ada Scrum Master, Product Owner, dan Tim
      Kanban: Tidak wajib ada peran khusus
-  e. Perubahan Tugas:
+  - Perubahan Tugas:
      Scrum: Tugas tidak boleh diubah selama sprint berjalan
      Kanban: Tugas bisa diubah atau ditambahkan kapan saja
-  f. Cocok Untuk:
+  - Cocok Untuk:
      Scrum: Proyek dengan jadwal dan target yang jelas
      Kanban: Proyek support, perbaikan bug, atau pekerjaan yang sifatnya rutin
 
