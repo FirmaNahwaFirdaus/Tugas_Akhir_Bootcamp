@@ -6,8 +6,8 @@
   - Mendukung fitur cabang (branch) dan penggabungan (merge)Mencegah kehilangan data atau konflik kode
 
   Jenis VCS:
-  a. Centralized VCS (CVCS): Semua file disimpan di server pusat (contoh: Subversion)
-  b. Distributed VCS (DVCS): Setiap pengguna punya salinan penuh (contoh: Git)
+  - Centralized VCS (CVCS): Semua file disimpan di server pusat (contoh: Subversion)
+  - Distributed VCS (DVCS): Setiap pengguna punya salinan penuh (contoh: Git)
   Contohnya Git adalah sistem kontrol versi paling banyak digunakan saat ini.
 
 # Perbedaan Scrum dan Kanban
