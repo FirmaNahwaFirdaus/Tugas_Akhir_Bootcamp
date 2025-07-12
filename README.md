@@ -57,3 +57,7 @@ Status
 
 Delete
 <img width="1366" height="768" alt="Screenshot (1407)" src="https://github.com/user-attachments/assets/236b23a2-06d6-4591-87d0-6a7da66b3f4b" />
+
+# PROJECT 2
+Link portofolio: https://firma-portofolio.netlify.app/
+Link Linkedin: https://www.linkedin.com/in/firma-nahwa-firdaus-b72583265/
